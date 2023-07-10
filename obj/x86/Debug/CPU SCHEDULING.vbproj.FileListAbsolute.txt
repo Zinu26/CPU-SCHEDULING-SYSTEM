@@ -1,0 +1,19 @@
+C:\Users\HAZEL\AppData\Local\Temporary Projects\CPU SCHEDULING\bin\Debug\CPU SCHEDULING.exe
+C:\Users\HAZEL\AppData\Local\Temporary Projects\CPU SCHEDULING\bin\Debug\CPU SCHEDULING.pdb
+C:\Users\HAZEL\AppData\Local\Temporary Projects\CPU SCHEDULING\bin\Debug\CPU SCHEDULING.xml
+C:\Users\HAZEL\AppData\Local\Temporary Projects\CPU SCHEDULING\obj\x86\Debug\CPU_SCHEDULING.Form1.resources
+C:\Users\HAZEL\AppData\Local\Temporary Projects\CPU SCHEDULING\obj\x86\Debug\CPU_SCHEDULING.Resources.resources
+C:\Users\HAZEL\AppData\Local\Temporary Projects\CPU SCHEDULING\obj\x86\Debug\CPU SCHEDULING.vbproj.GenerateResource.Cache
+C:\Users\HAZEL\AppData\Local\Temporary Projects\CPU SCHEDULING\obj\x86\Debug\CPU SCHEDULING.exe
+C:\Users\HAZEL\AppData\Local\Temporary Projects\CPU SCHEDULING\obj\x86\Debug\CPU SCHEDULING.xml
+C:\Users\HAZEL\AppData\Local\Temporary Projects\CPU SCHEDULING\obj\x86\Debug\CPU SCHEDULING.pdb
+C:\Users\HAZEL\Desktop\It's All About Korean\CPU SCHEDULING\CPU SCHEDULING\obj\x86\Debug\CPU SCHEDULING.exe
+C:\Users\HAZEL\Desktop\It's All About Korean\CPU SCHEDULING\CPU SCHEDULING\obj\x86\Debug\CPU SCHEDULING.xml
+C:\Users\HAZEL\Desktop\It's All About Korean\CPU SCHEDULING\CPU SCHEDULING\obj\x86\Debug\CPU SCHEDULING.pdb
+C:\Users\HAZEL\Desktop\It's All About Korean\CPU SCHEDULING\CPU SCHEDULING\bin\Debug\CPU SCHEDULING.exe
+C:\Users\HAZEL\Desktop\It's All About Korean\CPU SCHEDULING\CPU SCHEDULING\bin\Debug\CPU SCHEDULING.pdb
+C:\Users\HAZEL\Desktop\It's All About Korean\CPU SCHEDULING\CPU SCHEDULING\bin\Debug\CPU SCHEDULING.xml
+C:\Users\HAZEL\Desktop\It's All About Korean\CPU SCHEDULING\CPU SCHEDULING\obj\x86\Debug\CPU_SCHEDULING.Form1.resources
+C:\Users\HAZEL\Desktop\It's All About Korean\CPU SCHEDULING\CPU SCHEDULING\obj\x86\Debug\CPU_SCHEDULING.Resources.resources
+C:\Users\HAZEL\Desktop\It's All About Korean\CPU SCHEDULING\CPU SCHEDULING\obj\x86\Debug\CPU SCHEDULING.vbproj.GenerateResource.Cache
+C:\Users\HAZEL\Desktop\It's All About Korean\CPU SCHEDULING\CPU SCHEDULING\obj\x86\Debug\CPU_SCHEDULING.Form2.resources
